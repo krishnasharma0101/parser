@@ -12,7 +12,7 @@ A Python-based PDF parser for extracting text and images from PDF files. This pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/krishnasharma0101/parser.git
    cd your-repo-name
    ```
 2. (Recommended) Create and activate a virtual environment:
