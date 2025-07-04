@@ -1,0 +1,5 @@
+PyPDF2
+pillow
+pytesseract
+# For OCR support, you also need the Tesseract engine installed on your system:
+# sudo apt-get install tesseract-ocr
